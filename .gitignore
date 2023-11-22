@@ -34,3 +34,6 @@ outputs
 /models
 /runs
 /visdom
+
+# pixi
+.pixi
